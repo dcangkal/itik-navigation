@@ -4,12 +4,11 @@
 
 ## otomatisasi penetasan telur
 * nyala dan mati lampu mengikuti sensor suhu.
+    - lampu mati pada suhu 38'
+    - lampu menyala kembali pada suhu 37'
 * aktif motor penggerak untuk memutarbalikkan telur diatur 2x sehari (12 jam sekali).
 * lama nya hidup motor penggerak menyesuaikan panjang jalur lintasan 12 detik.
 * aktif penyemprot embun untuk menjaga kestabilan kelembaban (70%-75%)
-
-
-
 
 ## hasil trial 1
 persentase : 72%
